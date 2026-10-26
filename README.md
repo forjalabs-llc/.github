@@ -1,6 +1,6 @@
 # Engineering standards
 
-Shared defaults for repositories maintained by [@dguezm93](https://github.com/dguezm93).
+Shared defaults for repositories maintained by [Forja Labs LLC](https://github.com/forjalabs-llc).
 
 GitHub uses these contribution guidelines, support instructions, security policy, and issue / pull request templates when a repository does not define its own.
 
