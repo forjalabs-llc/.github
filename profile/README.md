@@ -4,7 +4,6 @@ We build software with a focus on clear interfaces, privacy, and dependable beha
 
 - [Our website](https://forjalabs.dev)
 - [MeQueda](https://mequeda.app)
-- [Open source automation starter](https://github.com/forjalabs-llc/automation-starter)
 
 For product questions, use the support links on our website. For security issues,
 use **Security → Report a vulnerability** in the affected public repository, or
