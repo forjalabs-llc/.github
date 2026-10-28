@@ -6,7 +6,7 @@ Please use **Security → Report a vulnerability** in the affected repository to
 
 Include the affected version or commit, reproduction steps, likely impact, and a minimal proof of concept. Remove tokens, personal data, and unrelated confidential material.
 
-Do not publish an exploit or sensitive details in a public issue. If the private reporting button is unavailable, open an issue that only asks the maintainer to enable private reporting; omit vulnerability details.
+Do not publish an exploit or sensitive details in a public issue. If the private reporting button is unavailable, email support@forjalabs.dev with a short description and the affected project. Do not include credentials, financial records, health records, or unrelated confidential material in the initial message; arrange a suitable channel for sensitive evidence with the maintainer.
 
 ## Supported versions
 
